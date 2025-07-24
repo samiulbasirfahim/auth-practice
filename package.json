@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "@prisma/client": "^6.12.0",
+    "@types/bun": "^1.2.19",
+    "bun-types": "^1.2.19",
+    "jose": "^6.0.12",
     "next": "15.4.3",
     "react": "19.1.0",
     "react-dom": "19.1.0"

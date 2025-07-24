@@ -21,7 +21,7 @@ model User {
     created_at DateTime @default(now())
 }
 
-model UserAuth {
+model Auth {
     userId   String @id
     password String
 }
